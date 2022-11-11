@@ -1,0 +1,7 @@
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\bin\Debug\PalindromePi9.exe
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\bin\Debug\PalindromePi9.pdb
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\obj\Debug\PalindromePi9.csproj.AssemblyReference.cache
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\obj\Debug\PalindromePi9.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\obj\Debug\PalindromePi9.csproj.CoreCompileInputs.cache
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\obj\Debug\PalindromePi9.exe
+C:\Users\joao.artidao\Documents\PalindromePi9\PalindromePi9\obj\Debug\PalindromePi9.pdb

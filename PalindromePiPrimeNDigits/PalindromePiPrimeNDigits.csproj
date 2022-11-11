@@ -7,8 +7,8 @@
         <ProjectGuid>{8395D311-61ED-4C0F-A1F9-706C1796F0B6}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>PalindromePi9</RootNamespace>
-        <AssemblyName>PalindromePi9</AssemblyName>
+        <RootNamespace>PalindromePiPrimeNDigits</RootNamespace>
+        <AssemblyName>PalindromePiPrimeNDigits</AssemblyName>
         <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

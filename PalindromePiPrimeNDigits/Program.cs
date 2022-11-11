@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Threading;
 
-namespace PalindromePrimePi21
+namespace PalindromePrimePiNDigits
 {
     internal class Program
     {
